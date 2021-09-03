@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-# solana-escrow
+# What is this project about ?
 
-an implementation of an escrow on solana using [this guide](https://paulx.dev/2021/01/14/programming-on-solana-an-introduction)
-=======
-# GameNest
-Our Project for Implementing Game Rental system and make gaming experience more fun and seamless 
->>>>>>> 8b6bc65f2d6a3ebea819c5cf9d9fea337e5063ca
+Was there ever a Time in your life when you felt like you wanted to **try a Gun Skin and check if you want to buy it **?, or you were **fanatised about the account that you want to play that you saw on Youtube, but can't afford to buy it** ?  But Now you will be able to do this. Gamers will be able to **rent their Game Account and Assets with others** , which otherwise was not possible with anyone other than whom they trust, this **fills the trust gap** and would also make it easier. For instance, when you want to exchange an asset of one game for another asset of another game, currently to do this both game should implement in game trading and users have to go and trade in respective games and there is a possibility that one might do the trade in one game but not in other game , but with our Program it will be **simplified to a single assured step.**
