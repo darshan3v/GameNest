@@ -233,7 +233,8 @@ impl Processor {
         }
 
         if escrow_info.initialiser_game_acc != *initialiser_game_acc.key
-            || escrow_info.taker_game_acc != *taker_game_acc.key
+            || escrow_info.taker_game_acc != *taker_game_acc.key 
+            || escrow_info.initialiser_main_acc != *initialiser_main_acc.key
         {
             return Err(EscrowError::IncorrectAcc.into());
         }

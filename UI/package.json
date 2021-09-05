@@ -1,0 +1,19 @@
+{
+  "name": "game_nest",
+  "version": "1.0.0",
+  "description": "UI for game_nest project",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rohan_AJ and Darshan",
+  "license": "ISC",
+  "dependencies": {
+    "@solana/web3.js": "^1.24.1",
+    "bn.js": "^5.2.0",
+    "buffer-layout": "^1.2.2",
+    "text-encoding": "^0.7.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.4.2"
+  }
+}

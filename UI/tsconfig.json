@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "es5",   
+    "rootDir": "./utility_files",  
+    "outDir": "./dist",                               
+    "module": "commonjs",                                                              
+    "esModuleInterop": true,                             
+    "forceConsistentCasingInFileNames": true,            
+    "strict": true,                     
+    "skipLibCheck": true,
+  },
+  "exclude": [
+    "node_modules"]
+}

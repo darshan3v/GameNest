@@ -1,0 +1,22 @@
+      #container{
+        height: 500px;
+        width: 500px;
+        border: solid black 1px ;
+        border-radius: 10px;
+        margin: 20px auto;
+        padding: 20px;
+      }
+      #btnwidth{
+        width: 77.39px;
+      }
+      #linkcolour{
+        color: white;
+      }
+      #linkcolour:hover{
+        color: peachpuff;
+      }
+      .logoimg {
+  display: block;
+  margin: 1% 46%;
+
+}
