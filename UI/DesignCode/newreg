@@ -34,9 +34,9 @@ crossorigin="anonymous">
           <a class="nav-link active" id="linkcolour"
 aria-current="page" href="buypage.html">Buy</a>
         </li>
-        <li class="nav-item">
+        <!-- <li class="nav-item">
           <a class="nav-link" id="linkcolour" href="sellpage.html">Sell</a>
-        </li>
+        </li> -->
         <li class="nav-item">
           <a class="nav-link active" id="linkcolour"
 aria-current="page" href="newreg.html">New Registration</a>
@@ -83,4 +83,3 @@ integrity="sha384-cn7l7gDp0eyniUwwAZgrzD06kc/tftFf19TOAs2zVinnD/C7E91j9yyk5//jjp
 crossorigin="anonymous"></script>
 <script src="app.js"></script>
 </html>
-
